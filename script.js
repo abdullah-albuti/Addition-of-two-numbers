@@ -8,6 +8,6 @@ run=()=>{
     var Sumd  = document.getElementById('sum');
     
     var s = num1+num2;
-    Sumd.innerHTML = s;
+    Sumd.innerHTML = s+" :الناتج";
     
   }
